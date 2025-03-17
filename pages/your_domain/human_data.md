@@ -11,7 +11,7 @@ training:
     registry: TeSS
     url: https://tess.elixir-europe.org/search?q=sensitive%20human%20data
   - name: A FAIR guide for data providers to maximise sharing of human genomic data
-    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005873
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/jour,nal.pcbi.1005873
   - name: Toward better governance of human genomic data
     url: https://tess.elixir-europe.org/search?q=sensitive%20human%20data
   - name: OMOP Common Data Model and the OHDSI analytics for observational analytics of real world healthcare data courses in EHDEN academy
