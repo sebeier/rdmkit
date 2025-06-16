@@ -1920,7 +1920,7 @@
   name: Toxin and Toxin Target Database (T3DB)
   registry:
     biotools: t3db
-  url: http://www.t3db.ca/
+  url: https://pubmed.ncbi.nlm.nih.gov/25378312/
 - description: Talend is an open source data integration platform.
   id: talend
   name: Talend
